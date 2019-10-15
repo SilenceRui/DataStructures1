@@ -12,7 +12,7 @@ public class FileReadAndWriter {
     public static void main(String[] args) {
 //        fileReader();
 //        fileWriter();
-//        bufferedReader();
+        bufferedReader();
         bufferedWriter();
     }
 
